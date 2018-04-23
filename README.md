@@ -1,2 +1,2 @@
 # Machine-Learning
-Data Analysis using machine learning using Python
+Data Analysis, machine learning using python
